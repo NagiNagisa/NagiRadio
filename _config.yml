@@ -7,7 +7,7 @@ actors:
 author: NagiNagisa
 description: なぎなぎラジオは、技術系・将棋系、個人Vtuberの私が気になったVtuber関連ニュース、VR技術、近況などを語るポッドキャストです。
 description_long: なぎなぎラジオは、技術系・将棋系、個人Vtuberの私が気になったVtuber関連ニュース、VR技術、近況などを語るポッドキャストです。
-email:
+email: naginagisachan@gmail.com
 exclude:
   - docker
   - docker-compose.yml
