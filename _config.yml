@@ -1,16 +1,13 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
-author: alice
-description: Example description
-description_long: Example long description
-email: info@example.com
+  nagisa:
+    image_url: /images/actors/naginagisa.png
+    name: NagiNagisa
+    url: https://twitter.com/nagi_nagisachan
+
+author: NagiNagisa
+description: なぎなぎラジオは、技術系・将棋系、個人Vtuberの私が気になったVtuber関連ニュース、VR技術、近況などを語るポッドキャストです。
+description_long: なぎなぎラジオは、技術系・将棋系、個人Vtuberの私が気になったVtuber関連ニュース、VR技術、近況などを語るポッドキャストです。
+email:
 exclude:
   - docker
   - docker-compose.yml
@@ -20,14 +17,14 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: nagiradio
 itunes_podcast_url:
-keywords: comma,separated,keywords
+keywords: podcast,vtuber,エンジニア,プログラマ,VR
 language: ja
 markdown: kramdown
 permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+title: なぎなぎラジオ
+url: https://naginagisa.github.io/NagiRadio/
