@@ -5,8 +5,8 @@ actors:
     url: https://twitter.com/nagi_nagisachan
 
 author: NagiNagisa
-description: なぎなぎラジオは、技術系・将棋系、個人Vtuberの私が気になったVtuber関連ニュース、VR技術、近況などを語るポッドキャストです。
-description_long: なぎなぎラジオは、技術系・将棋系、個人Vtuberの私が気になったVtuber関連ニュース、VR技術、近況などを語るポッドキャストです。
+description: Vの裏側 なぎなぎラジオは、技術系・将棋系、個人Vtuberの私が気になったVtuber関連ニュース、VR技術、近況などを語るポッドキャストです。
+description_long: Vの裏側 なぎなぎラジオは、技術系・将棋系、個人Vtuberの私が気になったVtuber関連ニュース、VR技術、近況などを語るポッドキャストです。
 email: naginagisachan@gmail.com
 exclude:
   - docker
@@ -26,5 +26,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: なぎなぎラジオ
+title: Vの裏側 なぎなぎラジオ
 url: https://naginagisa.github.io/NagiRadio/
